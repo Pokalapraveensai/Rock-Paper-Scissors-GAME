@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+header{
+    color: aliceblue;
+    background-color: black;
+    height: 60px;
+    font-size: 18px;
+    line-height: 60px;
+   
+}
+.image{
+  
+    display: inline-block;
+    margin: 10px;
+    
+}
+.u{
+   border: none;
+   background-color: aliceblue;
+}
+
+.image img{
+    border-width: 4px;
+    border-style: solid;
+    border-color: wheat;
+    border-radius: 50%;
+    
+}
+ img:hover{
+   border-color: black;
+    opacity: 0.9;
+    cursor: pointer;
+}
+.scoreboard div{
+    display: inline-block;
+    margin: 25px;
+    font-weight: bolder;
+}
+.scoreboard div p{
+    margin: 10px;
+}
+.rr button{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    width: 260px;
+    font-weight: bolder;
+    border-radius: 5px
+}
+ .rr :hover{
+    cursor: pointer;
+}
+main{
+    margin: 55px;
+}
+#users{
+    font-size: 24px;
+    font-weight: bolder;
+}
+#coms{
+    font-size: 24px;
+    font-weight: bolder; 
+}
