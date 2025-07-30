@@ -19,4 +19,4 @@ A fun and interactive Rock Paper Scissors game built using **HTML, CSS, and Java
 - Paper beats Rock  
 
 ## 📷 Screenshot
-*(You can add a screenshot of your game UI here)*
+<img width="1918" height="978" alt="rock_paper" src="https://github.com/user-attachments/assets/ffad1f9d-0866-4f58-a5e1-1b44318886fc" />
